@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working as a Software Engineer and a Full Stack Web App Developer
+- 🔭 I’m currently working as a Lead Software Engineer and a Full Stack Web App Developer
 - 🌱 I’m currently learning Blockchain Technology
 - 👯 I’m looking to collaborate on Open Source Blockchain Technology
 - 🤔 I’m looking for Backend Development Role For Typescript, nestjs, golang, rust, java, python
