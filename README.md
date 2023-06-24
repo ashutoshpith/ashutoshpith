@@ -1,8 +1,6 @@
 ### Hi there 👋
+Experienced Software Engineer with 5+ years of experience in developing high-quality software solutions. Highly skilled in Nodejs, java, and golang.I bring a comprehensive background in Domain-Driven Design (DDD) pattern, microservices, Onion Architecture,Hexagonal Architecture,design patterns, and agile methodologies
 
-
-- 🔭 I’m currently working as a Lead Software Engineer and a Full Stack Web App Developer
-- 🌱 I’m currently learning Blockchain Technology
 - 👯 I’m looking to collaborate on Open Source Blockchain Technology
 - 🤔 I’m looking for Backend Development Role For Typescript, nestjs, golang, rust, java, python
 - 💬 Ask me about Machine Learning, Web Development, DDD Pattern, Microservices, Architectural Pattern
