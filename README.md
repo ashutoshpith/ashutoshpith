@@ -1,24 +1,25 @@
-### Hi there 👋
-Experienced Software Engineer with 5+ years of experience in developing high-quality software solutions. Highly skilled in Nodejs, java, and golang.I bring a comprehensive background in Domain-Driven Design (DDD) pattern, microservices, Onion Architecture,Hexagonal Architecture,design patterns, and agile methodologies
+<h2 align="left">Hi there 👋! My name is Ashutosh.</h2>
+<h4>
+  Experienced Software Engineer with 5+ years of experience in developing high-quality software solutions. Highly skilled in Nodejs and golang.
+  I bring a comprehensive background in Domain-Driven Design (DDD) pattern, microservices, Onion Architecture,Hexagonal Architecture,design patterns, and agile methodologies
+</h4>
+<ul>
+  <li>
+    I’m looking to collaborate on Open Source WebApp, AI,ML and Blockchain Technology
+  </li>
+  <li>
+    💬 Ask me about Machine Learning, Web Development, DDD Pattern, Microservices, Architectural Pattern
+  </li>
+</ul>
 
-- 👯 I’m looking to collaborate on Open Source Blockchain Technology
-- 🤔 I’m looking for Backend Development Role For Typescript, nestjs, golang, rust, java, python
-- 💬 Ask me about Machine Learning, Web Development, DDD Pattern, Microservices, Architectural Pattern
-- 📫 How to reach me: via mail - ashutoshpith@gmail.com, via twitter - ashutohshpith
-
-
-💻 Tech Stack:
-<h2 align="left">Hi 👋! My name is Ashutosh and I'm a Software Engineer from India</h2>
-
-###
-
+<hr/>
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashutoshpith&theme=dark" height="150" alt="stats graph"  />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ashutoshpith&theme=dark" height="150" alt="languages graph"  />
  
 </div>
+<hr/>
 
-###
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
@@ -29,7 +30,7 @@ Experienced Software Engineer with 5+ years of experience in developing high-qua
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
-###
+<hr/>
 
 <p align="left">LANGUAGES</p>
 
@@ -54,8 +55,7 @@ Experienced Software Engineer with 5+ years of experience in developing high-qua
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="30" alt="solidity logo"  />
 </div>
-
-###
+<hr/>
 
 <p align="left">Hosting/SaaS</p>
 
@@ -71,7 +71,7 @@ Experienced Software Engineer with 5+ years of experience in developing high-qua
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
 </div>
 
-###
+<hr/>
 
 <p align="left">FRAMEWORKS, PLATFORMS & LIBRARIES</p>
 
@@ -101,7 +101,7 @@ Experienced Software Engineer with 5+ years of experience in developing high-qua
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
 </div>
 
-###
+<hr/>
 
 <p align="left">SERVERS</p>
 
@@ -113,7 +113,7 @@ Experienced Software Engineer with 5+ years of experience in developing high-qua
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
 </div>
 
-###
+<hr/>
 
 <p align="left">DATABASES</p>
 
@@ -133,7 +133,7 @@ Experienced Software Engineer with 5+ years of experience in developing high-qua
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
 </div>
 
-###
+<hr/>
 
 <p align="left">DESIGN</p>
 
@@ -145,7 +145,7 @@ Experienced Software Engineer with 5+ years of experience in developing high-qua
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
 </div>
 
-###
+<hr/>
 
 <p align="left">ML/DL</p>
 
@@ -165,7 +165,7 @@ Experienced Software Engineer with 5+ years of experience in developing high-qua
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
 </div>
 
-###
+<hr/>
 
 <p align="left">OTHER</p>
 
@@ -201,7 +201,7 @@ Experienced Software Engineer with 5+ years of experience in developing high-qua
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
 </div>
 
-###
+<hr/>
 
 
 
