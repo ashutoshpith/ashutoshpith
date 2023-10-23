@@ -1,4 +1,4 @@
-<h2 align="left">Hi there 👋! My name is Ashutosh.</h2>
+<h2 align="left">Hi there 👋!</h2>
 <p>
   Experienced Software Engineer with 5+ years of experience in developing high-quality software solutions. Highly skilled in Nodejs and golang.
 </p>
