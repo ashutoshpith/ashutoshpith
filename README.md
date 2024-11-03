@@ -1,6 +1,6 @@
 <h2 align="left">Hi there 👋!</h2>
 <p>
-  Experienced Software Engineer with 5+ years of experience in developing high-quality software solutions. Highly skilled in Nodejs and golang.
+  Experienced Software Engineer with 5+ years of experience in developing high-quality software solutions. Highly skilled in Java, Python, Nodejs and golang.
 </p>
 <p>
   I bring a comprehensive background in Domain-Driven Design (DDD) pattern, microservices, Onion Architecture,Hexagonal Architecture,design patterns, and agile methodologies
